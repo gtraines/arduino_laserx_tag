@@ -1,0 +1,905 @@
+LEFT
+3389,8,18,22,11,10,14,22,16,8,12,8,12,27,14,8,
+State:5
+End timer value: 1539
+ Value: 0 (1361)
+LEFT
+
+State:2
+End timer value: 3297
+Finished a loop without a complete signal; code: 0
+REAR
+3307,7,34,21,
+State:5
+End timer value: 1683
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 3442
+Finished a loop without a complete signal; code: 0
+RIGHT
+3443,64,11,10,10,29,11,10,11,29,11,9,11,9,11,30,10,9,
+State:5
+End timer value: 1460
+ Value: 0 (1365)
+FRONT
+
+State:2
+End timer value: 3209
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 4967
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 6726
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 8476
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 10226
+Finished a loop without a complete signal; code: 0
+LEFT
+10239,8,
+State:5
+End timer value: 1733
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3490
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5248
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 7006
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 8764
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 10521
+Finished a loop without a complete signal; code: 0
+REAR
+10529,9,11,29,12,8,12,28,12,8,11,10,10,29,13,8,
+State:5
+End timer value: 1528
+ Value: 0 (1361)
+LEFT
+
+State:2
+End timer value: 3277
+Finished a loop without a complete signal; code: 0
+REAR
+3285,11,9,31,10,10,
+State:5
+End timer value: 1675
+ Value: 0 (1341)
+FRONT
+
+State:2
+End timer value: 3433
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5182
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6932
+Finished a loop without a complete signal; code: 0
+REAR
+6933,24,10,10,10,11,9,31,10,10,
+State:5
+End timer value: 1620
+ Value: 0 (1349)
+FRONT
+
+State:2
+End timer value: 3369
+Finished a loop without a complete signal; code: 0
+REAR
+3374,10,
+State:5
+End timer value: 1739
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 3497
+Finished a loop without a complete signal; code: 0
+REAR
+3502,9,10,10,11,29,10,10,
+State:5
+End timer value: 1659
+ Value: 0 (1345)
+FRONT
+
+State:2
+End timer value: 3416
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5173
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 6930
+Finished a loop without a complete signal; code: 0
+LEFT
+6950,15,35,28,53,27,
+State:5
+End timer value: 1568
+ Value: 0 (1341)
+LEFT
+
+State:2
+End timer value: 3318
+Finished a loop without a complete signal; code: 0
+LEFT
+3327,24,18,7,14,8,45,17,31,13,
+State:5
+End timer value: 1567
+ Value: 0 (1349)
+LEFT
+
+State:2
+End timer value: 3325
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 5075
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 6824
+Finished a loop without a complete signal; code: 0
+LEFT
+6825,14,34,8,13,25,
+State:5
+End timer value: 1660
+ Value: 0 (1341)
+LEFT
+
+State:2
+End timer value: 3418
+Finished a loop without a complete signal; code: 0
+LEFT
+3465,18,
+State:5
+End timer value: 1548
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 3297
+Finished a loop without a complete signal; code: 0
+LEFT
+3346,5,70,8,
+State:5
+End timer value: 1622
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 3380
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 5136
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 6894
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 8652
+Finished a loop without a complete signal; code: 0
+LEFT
+8667,9,13,5,64,19,
+State:5
+End timer value: 1620
+ Value: 0 (1341)
+LEFT
+
+State:2
+End timer value: 3370
+Finished a loop without a complete signal; code: 0
+LEFT
+3376,9,20,21,
+State:5
+End timer value: 1553
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 3302
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 5053
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 6802
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 8560
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 10317
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 12074
+Finished a loop without a complete signal; code: 0
+LEFT
+12075,9,
+State:5
+End timer value: 1745
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 3503
+Finished a loop without a complete signal; code: 0
+RIGHT
+3596,6,
+State:5
+End timer value: 1654
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 3412
+Finished a loop without a complete signal; code: 0
+LEFT
+3499,5,35,8,
+State:5
+End timer value: 1611
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 3361
+Finished a loop without a complete signal; code: 0
+LEFT
+3362,20,13,8,12,9,11,27,
+State:5
+End timer value: 1644
+ Value: 0 (1345)
+LEFT
+
+State:2
+End timer value: 3393
+Finished a loop without a complete signal; code: 0
+LEFT
+3403,5,73,8,19,22,12,6,
+State:5
+End timer value: 1598
+ Value: 0 (1345)
+LEFT
+
+State:2
+End timer value: 3354
+Finished a loop without a complete signal; code: 0
+LEFT
+3369,64,
+State:5
+End timer value: 1491
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 3248
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5006
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6764
+Finished a loop without a complete signal; code: 0
+REAR
+6765,8,9,30,10,11,9,11,9,31,9,11,
+State:5
+End timer value: 1597
+ Value: 0 (1353)
+FRONT
+
+State:2
+End timer value: 3345
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5104
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6862
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 8620
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 10378
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 12128
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 13878
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 15635
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 17393
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 19144
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 20893
+Finished a loop without a complete signal; code: 0
+REAR
+20894,17,10,11,
+State:5
+End timer value: 1706
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3456
+Finished a loop without a complete signal; code: 0
+REAR
+3457,17,9,11,10,11,9,30,10,11,
+State:5
+End timer value: 1634
+ Value: 0 (1349)
+FRONT
+
+State:2
+End timer value: 3392
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5141
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 6889
+Finished a loop without a complete signal; code: 0
+REAR
+6890,13,9,11,
+State:5
+End timer value: 1721
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3479
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 5237
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6996
+Finished a loop without a complete signal; code: 0
+RIGHT
+6997,8,14,7,11,29,14,3,4,3,9,23,15,10,12,7,13,27,13,8,
+State:5
+End timer value: 1522
+ Value: 0 (1369)
+LEFT
+
+State:2
+End timer value: 3278
+Finished a loop without a complete signal; code: 0
+REAR
+3281,31,10,10,10,30,10,10,9,11,10,31,9,11,
+State:5
+End timer value: 1551
+ Value: 0 (1357)
+FRONT
+
+State:2
+End timer value: 3300
+Finished a loop without a complete signal; code: 0
+REAR
+3301,15,9,11,8,32,9,11,8,12,9,31,9,11,
+State:5
+End timer value: 1579
+ Value: 0 (1357)
+FRONT
+
+State:2
+End timer value: 3337
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 5095
+Finished a loop without a complete signal; code: 0
+RIGHT
+
+State:2
+End timer value: 6851
+Finished a loop without a complete signal; code: 0
+LEFT
+6899,9,53,25,14,6,34,27,
+State:5
+End timer value: 1538
+ Value: 0 (1345)
+FRONT
+
+State:2
+End timer value: 3296
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 5053
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6811
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 8571
+Finished a loop without a complete signal; code: 0
+FRONT
+9075,120,11,10,9,31,10,9,10,30,10,10,11,9,10,30,11,10,
+State:5
+End timer value: 911
+ Value: 0 (1365)
+FRONT
+
+State:2
+End timer value: 2669
+Finished a loop without a complete signal; code: 0
+LEFT
+2670,56,13,5,12,28,34,28,12,8,12,8,12,28,12,8,
+State:5
+End timer value: 1477
+ Value: 0 (1361)
+FRONT
+
+State:2
+End timer value: 3235
+Finished a loop without a complete signal; code: 0
+FRONT
+3236,5,
+State:5
+End timer value: 1748
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3506
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5264
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 7022
+Finished a loop without a complete signal; code: 0
+REAR
+7030,31,9,11,
+State:5
+End timer value: 1694
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3453
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5211
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6970
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 8720
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 10470
+Finished a loop without a complete signal; code: 0
+LEFT
+10471,3,13,29,
+State:5
+End timer value: 1709
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3467
+Finished a loop without a complete signal; code: 0
+REAR
+3468,20,10,11,9,31,9,11,8,12,9,32,8,12,
+State:5
+End timer value: 1563
+ Value: 0 (1357)
+FRONT
+
+State:2
+End timer value: 3312
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5069
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6827
+Finished a loop without a complete signal; code: 0
+LEFT
+6828,5,11,24,
+State:5
+End timer value: 1712
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3469
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5220
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6968
+Finished a loop without a complete signal; code: 0
+REAR
+6969,3,9,31,9,11,9,31,9,11,9,11,9,32,9,10,
+State:5
+End timer value: 1541
+ Value: 0 (1361)
+FRONT
+
+State:2
+End timer value: 3289
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5039
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6789
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 8547
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 10304
+Finished a loop without a complete signal; code: 0
+REAR
+10305,2,9,10,
+State:5
+End timer value: 1730
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3487
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5245
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 7002
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 8760
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 10518
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 12269
+Finished a loop without a complete signal; code: 0
+FRONT
+12563,120,10,10,10,30,10,10,10,31,10,10,10,9,11,29,11,10,
+State:5
+End timer value: 1109
+ Value: 0 (1365)
+FRONT
+2513,121,10,9,11,30,10,9,11,30,10,11,9,11,10,29,11,10,
+State:5
+End timer value: 1754
+ Value: 0 (1365)
+FRONT
+
+State:2
+End timer value: 3512
+Finished a loop without a complete signal; code: 0
+REAR
+3521,31,10,9,
+State:5
+End timer value: 1686
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 3436
+Finished a loop without a complete signal; code: 0
+LEFT
+3460,13,
+State:5
+End timer value: 1715
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3473
+Finished a loop without a complete signal; code: 0
+RIGHT
+3500,5,19,3,
+State:5
+End timer value: 1700
+Finished a loop without a complete signal; code: 0
+LEFT
+
+State:2
+End timer value: 3457
+Finished a loop without a complete signal; code: 0
+LEFT
+3458,14,10,9,12,29,13,9,10,9,12,25,
+State:5
+End timer value: 1592
+ Value: 0 (1353)
+FRONT
+
+State:2
+End timer value: 3342
+Finished a loop without a complete signal; code: 0
+REAR
+3343,5,9,11,
+State:5
+End timer value: 1728
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3485
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5236
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6985
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 8744
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 10502
+Finished a loop without a complete signal; code: 0
+LEFT
+10503,24,12,9,12,8,13,27,
+State:5
+End timer value: 1646
+ Value: 0 (1345)
+FRONT
+
+State:2
+End timer value: 3403
+Finished a loop without a complete signal; code: 0
+REAR
+3404,17,15,5,55,7,34,25,65,16,17,4,
+State:5
+End timer value: 1485
+ Value: 0 (1353)
+LEFT
+
+State:2
+End timer value: 3234
+Finished a loop without a complete signal; code: 0
+REAR
+3235,15,10,10,
+State:5
+End timer value: 1716
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3473
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5231
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6988
+Finished a loop without a complete signal; code: 0
+FRONT
+6989,4,10,10,10,10,10,30,11,10,
+State:5
+End timer value: 1639
+ Value: 0 (1349)
+FRONT
+
+State:2
+End timer value: 3388
+Finished a loop without a complete signal; code: 0
+REAR
+3392,11,8,32,9,11,8,12,9,32,8,11,
+State:5
+End timer value: 1591
+ Value: 0 (1353)
+FRONT
+
+State:2
+End timer value: 3341
+Finished a loop without a complete signal; code: 0
+REAR
+3342,31,9,11,8,12,9,31,9,11,
+State:5
+End timer value: 1622
+ Value: 0 (1349)
+FRONT
+
+State:2
+End timer value: 3380
+Finished a loop without a complete signal; code: 0
+REAR
+3388,12,
+State:5
+End timer value: 1734
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3492
+Finished a loop without a complete signal; code: 0
+REAR
+3493,8,9,11,8,32,9,11,
+State:5
+End timer value: 1666
+ Value: 0 (1345)
+FRONT
+
+State:2
+End timer value: 3424
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5173
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 6923
+Finished a loop without a complete signal; code: 0
+REAR
+6924,8,
+State:5
+End timer value: 1746
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 3505
+Finished a loop without a complete signal; code: 0
+REAR
+
+State:2
+End timer value: 5254
+Finished a loop without a complete signal; code: 0
+FRONT
+
+State:2
+End timer value: 7004
+Finished a loop without a complete signal; code: 0
