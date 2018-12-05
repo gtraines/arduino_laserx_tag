@@ -1,0 +1,15 @@
+
+#define RAW_DATA_LEN 18
+uint16_t rawData[RAW_DATA_LEN]={
+	5986, 562, 430, 586, 1466, 554, 442, 554, 
+	1438, 582, 466, 534, 442, 582, 1462, 534, 
+	462, 1000};
+Do a cut-and-paste of the following lines into the 
+designated location in rawSend.ino
+
+#define RAW_DATA_LEN 18
+uint16_t rawData[RAW_DATA_LEN]={
+	5966, 566, 462, 566, 1430, 586, 414, 590, 
+	1426, 590, 414, 590, 434, 570, 1446, 562, 
+	462, 1000};
+
